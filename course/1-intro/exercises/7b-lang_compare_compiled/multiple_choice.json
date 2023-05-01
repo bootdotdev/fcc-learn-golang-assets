@@ -1,0 +1,9 @@
+{
+  "question": "Why is it generally more simple to deploy a compiled server program?",
+  "answers": [
+    "There are no runtime language dependencies",
+    "Compiled code is faster",
+    "Compiled code is more memory efficient",
+    "Because docker exists"
+  ]
+}

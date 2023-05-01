@@ -1,0 +1,43 @@
+Messages:
+ - Welcome to the movies!
+ - Enjoy your popcorn!
+ - Please don't talk during the movie!
+Costs:
+ - 0.22
+ - 0.19
+ - 0.35
+===== END REPORT =====
+Messages:
+ - I don't want to be here anymore
+ - Can we go home?
+ - I'm hungry
+ - I'm bored
+Costs:
+ - 0.31
+ - 0.15
+ - 0.10
+ - 0.09
+===== END REPORT =====
+Messages:
+ - Hello
+ - Hi
+ - Hey
+ - Hi there
+ - Hey there
+ - Hi there
+ - Hello there
+ - Hey there
+ - Hello there
+ - General Kenobi
+Costs:
+ - 0.05
+ - 0.02
+ - 0.03
+ - 0.08
+ - 0.09
+ - 0.08
+ - 0.11
+ - 0.09
+ - 0.11
+ - 0.14
+===== END REPORT =====

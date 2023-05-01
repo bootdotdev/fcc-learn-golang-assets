@@ -1,0 +1,15 @@
+Sending 10 messages
+Bulk send complete! Cost = 10.45
+===============================================================
+Sending 20 messages
+Bulk send complete! Cost = 21.90
+===============================================================
+Sending 30 messages
+Bulk send complete! Cost = 34.35
+===============================================================
+Sending 40 messages
+Bulk send complete! Cost = 47.80
+===============================================================
+Sending 50 messages
+Bulk send complete! Cost = 62.25
+===============================================================

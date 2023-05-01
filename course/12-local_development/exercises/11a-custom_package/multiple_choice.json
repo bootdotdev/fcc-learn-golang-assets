@@ -1,0 +1,7 @@
+{
+  "question": "Why is the function 'Reverse()' instead of 'reverse()'?",
+  "answers": [
+    "Lowercase names aren't exported for external use",
+    "Conventionally uppercase names are used in Go"
+  ]
+}

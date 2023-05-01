@@ -1,0 +1,7 @@
+{
+  "question": "Which references the other?",
+  "answers": [
+    "Slices reference arrays",
+    "Arrays reference slices"
+  ]
+}

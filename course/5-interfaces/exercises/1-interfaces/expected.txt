@@ -1,0 +1,8 @@
+Your "First Report" report is ready. You've sent 10 messages.
+====================================
+Hi John Doe, it is your birthday on 1994-03-21T00:00:00Z
+====================================
+Your "First Report" report is ready. You've sent 10 messages.
+====================================
+Hi Bill Deer, it is your birthday on 1934-05-01T00:00:00Z
+====================================

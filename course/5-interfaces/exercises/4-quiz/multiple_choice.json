@@ -1,0 +1,9 @@
+{
+  "question": "Go uses the ____ keyword to show that a type implements an interface",
+  "answers": [
+    "there is no keyword in Go",
+    "implements",
+    "fulfills",
+    "inherits"
+  ]
+}

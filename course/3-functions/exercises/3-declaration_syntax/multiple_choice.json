@@ -1,0 +1,9 @@
+{
+  "question": "What are we talking about when we discuss 'declaration syntax'?",
+  "answers": [
+    "The style of language used to create new variables, types, functions, etc...",
+    "The decision about whether to use camelCase or snake_case",
+    "The argument over guard clauses vs if-else statements",
+    "The ever-important question of tabs vs spaces"
+  ]
+}

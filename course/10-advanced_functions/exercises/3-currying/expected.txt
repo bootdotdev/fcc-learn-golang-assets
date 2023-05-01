@@ -1,0 +1,10 @@
+Logs:
+Error on database server: out of memory
+Error on database server: cpu is pegged
+Error on database server: networking issue
+Error on database server: invalid syntax
+====================================
+Logs:
+Error on mail server, email too large
+Error on mail server, non alphanumeric symbols found
+====================================

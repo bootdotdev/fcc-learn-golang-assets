@@ -1,0 +1,7 @@
+{
+  "question": "Why doesn't the bug regarding slices 'j' and 'g' in example 2 occur in example 1 as well?",
+  "answers": [
+    "The array's cap() is exceeded so a new underlying array is allocated",
+    "Because there are fewer elements and Go's runtime can't handle more than ~8"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question": "What is a higher-order function?",
+  "answers": [
+    "A function that takes another function as an argument",
+    "A function with superior logic",
+    "A function that is first in the call stack"
+  ]
+}

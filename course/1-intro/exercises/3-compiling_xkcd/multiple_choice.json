@@ -1,0 +1,9 @@
+{
+  "question": "Go code generally runs ____ than interpreted languages and compiles ____ than other compiled languages like C and Rust",
+  "answers": [
+    "faster, faster",
+    "faster, slower",
+    "slower, faster",
+    "slower, slower"
+  ]
+}

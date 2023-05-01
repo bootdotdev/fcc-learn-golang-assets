@@ -1,0 +1,22 @@
+-- before --
+message: this is my first draft
+fromAddress: sandra@mailio-test.com
+toAddress: bullock@mailio-test.com
+-- end before --
+-- after --
+message: this is my second draft
+fromAddress: sandra@mailio-test.com
+toAddress: bullock@mailio-test.com
+-- end after --
+==========================
+-- before --
+message: this is my third draft
+fromAddress: sandra@mailio-test.com
+toAddress: bullock@mailio-test.com
+-- end before --
+-- after --
+message: this is my second draft
+fromAddress: sandra@mailio-test.com
+toAddress: bullock@mailio-test.com
+-- end after --
+==========================

@@ -1,0 +1,16 @@
+Getting last email from slice of length: 0
+Last item in list: {  }
+ --- 
+Getting last email from slice of length: 3
+Item #1: {Hi Margo janet@example.com margo@example.com}
+Item #2: {Hey Margo I really wanna chat janet@example.com margo@example.com}
+Item #3: {ANSWER ME janet@example.com margo@example.com}
+Last item in list: {ANSWER ME janet@example.com margo@example.com}
+ --- 
+Getting last payment from slice of length: 4
+Item #1: {5 jane@example.com sally@example.com}
+Item #2: {25 jane@example.com mark@example.com}
+Item #3: {1 jane@example.com sally@example.com}
+Item #4: {16 jane@example.com margo@example.com}
+Last item in list: {16 jane@example.com margo@example.com}
+ --- 

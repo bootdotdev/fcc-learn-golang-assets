@@ -1,0 +1,2 @@
+Trying to send a message of length: 10 and a max length of: 20
+Message sent

@@ -1,0 +1,16 @@
+Attempting to delete john...
+Deleted: john
+====================================
+Attempting to delete musk...
+not found
+====================================
+Attempting to delete santa...
+not found
+====================================
+Attempting to delete kade...
+Did not delete: kade
+====================================
+Final map keys:
+ -  breanna
+ -  elon
+ -  kade

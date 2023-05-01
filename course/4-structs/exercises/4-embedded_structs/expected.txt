@@ -1,0 +1,12 @@
+Sender name: Deborah
+Sender number: 18055558790
+Sender rateLimit: 10000
+====================================
+Sender name: Sarah
+Sender number: 19055558790
+Sender rateLimit: 5000
+====================================
+Sender name: Sally
+Sender number: 19055558790
+Sender rateLimit: 1000
+====================================

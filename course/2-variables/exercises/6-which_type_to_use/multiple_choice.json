@@ -1,0 +1,8 @@
+{
+  "question": "When should you elect to NOT use a 'default type'?",
+  "answers": [
+    "When performance and memory are the primary concern",
+    "When my system has lots of extra hardware I want to utilize",
+    "When either a 'default' or a specific size will work"
+  ]
+}

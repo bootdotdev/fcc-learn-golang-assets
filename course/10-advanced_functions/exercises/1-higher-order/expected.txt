@@ -1,0 +1,10 @@
+ * Thanks for getting back to me. -> Thanks for getting back to me. Kind regards.
+ * Great to see you again. -> Great to see you again. Kind regards.
+ * I would love to hang out this weekend. -> I would love to hang out this weekend. Kind regards.
+ * Got any hot stock tips? -> Got any hot stock tips? Kind regards.
+====================================
+ * Thanks for getting back to me. -> Hello! Thanks for getting back to me.
+ * Great to see you again. -> Hello! Great to see you again.
+ * I would love to hang out this weekend. -> Hello! I would love to hang out this weekend.
+ * Got any hot stock tips? -> Hello! Got any hot stock tips?
+====================================

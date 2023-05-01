@@ -1,0 +1,7 @@
+{
+  "question": "What does the cap() function return?",
+  "answers": [
+    "The maximum length of the slice before reallocation of the array is necessary",
+    "The last element of the slice"
+  ]
+}

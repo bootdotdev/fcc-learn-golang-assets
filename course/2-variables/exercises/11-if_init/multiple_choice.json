@@ -1,0 +1,8 @@
+{
+  "question": "Why would you use the 'initial' section of an `if` statement?",
+  "answers": [
+    "To keep the code concise and the scope limited",
+    "To speed up my code",
+    "To confuse other programmers"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Which is simpler?",
+  "answers": [
+    "To use a struct directly as a key",
+    "To nest maps"
+  ]
+}

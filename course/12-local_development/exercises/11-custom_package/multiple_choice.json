@@ -1,0 +1,7 @@
+{
+  "question": "What was the output from 'go build' in the library package",
+  "answers": [
+    "The compiled package is silently saved to the local build cache",
+    "An executable program"
+  ]
+}

@@ -1,0 +1,16 @@
+Message for customer: Thanks for coming in to our flower shop today!
+Message for spouse: We hope you enjoyed your gift.
+Error: can't send texts over 25 characters
+========
+Message for customer: Thanks for joining us!
+Message for spouse: Have a good day.
+Total cost: $0.0076
+========
+Message for customer: Thank you.
+Message for spouse: Enjoy!
+Total cost: $0.0032
+========
+Message for customer: We loved having you in!
+Message for spouse: We hope the rest of your evening is absolutely fantastic.
+Error: can't send texts over 25 characters
+========

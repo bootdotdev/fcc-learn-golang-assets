@@ -1,0 +1,15 @@
+Threshold: 10.00
+Maximum messages that can be sent: = 9
+===============================================================
+Threshold: 20.00
+Maximum messages that can be sent: = 18
+===============================================================
+Threshold: 30.00
+Maximum messages that can be sent: = 26
+===============================================================
+Threshold: 40.00
+Maximum messages that can be sent: = 34
+===============================================================
+Threshold: 50.00
+Maximum messages that can be sent: = 41
+===============================================================

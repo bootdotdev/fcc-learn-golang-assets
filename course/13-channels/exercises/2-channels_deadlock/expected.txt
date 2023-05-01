@@ -1,0 +1,16 @@
+email 1 is old: true
+email 2 is old: false
+email 3 is old: false
+==========================================
+email 1 is old: true
+email 2 is old: true
+email 3 is old: true
+==========================================
+email 1 is old: true
+email 2 is old: false
+email 3 is old: false
+==========================================
+email 1 is old: true
+email 2 is old: false
+email 3 is old: false
+==========================================

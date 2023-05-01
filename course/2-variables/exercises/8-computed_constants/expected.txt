@@ -1,0 +1,1 @@
+number of seconds in an hour: 3600

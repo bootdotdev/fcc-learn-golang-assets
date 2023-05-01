@@ -1,0 +1,7 @@
+{
+  "question": "What do len() and cap() do when a slice is nil?",
+  "answers": [
+    "Return 0",
+    "Panic"
+  ]
+}

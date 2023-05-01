@@ -1,0 +1,8 @@
+{
+  "question": "What does the second return value from a retrieve operation in a map indicate?",
+  "answers": [
+    "A boolean that indicates whether the key exists",
+    "A boolean that indicates whether the value at the key is a nil value",
+    "A boolean that indicates whether the value at the key is a zero value"
+  ]
+}

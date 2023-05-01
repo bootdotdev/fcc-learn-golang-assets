@@ -1,0 +1,8 @@
+{
+  "question": "What is a guard clause?",
+  "answers": [
+    "An early return from a function when a given condition is met",
+    "An AND operation in boolean logic",
+    "A bitwise OR operation"
+  ]
+}

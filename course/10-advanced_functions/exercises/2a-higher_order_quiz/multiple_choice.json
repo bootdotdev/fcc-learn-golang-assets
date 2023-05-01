@@ -1,0 +1,8 @@
+{
+  "question": "What is a first-class function?",
+  "answers": [
+    "A function that is treated like any other variable",
+    "A function that has been deemed most important by the architect",
+    "A function that takes another function as an argument"
+  ]
+}

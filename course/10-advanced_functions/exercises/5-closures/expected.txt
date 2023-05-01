@@ -1,0 +1,17 @@
+You've sent 1 emails and it has cost you 45 cents
+You've sent 2 emails and it has cost you 77 cents
+You've sent 3 emails and it has cost you 120 cents
+You've sent 4 emails and it has cost you 132 cents
+You've sent 5 emails and it has cost you 166 cents
+You've sent 6 emails and it has cost you 220 cents
+====================================
+You've sent 1 emails and it has cost you 12 cents
+You've sent 2 emails and it has cost you 24 cents
+You've sent 3 emails and it has cost you 1000 cents
+You've sent 4 emails and it has cost you 1012 cents
+You've sent 5 emails and it has cost you 1555 cents
+====================================
+You've sent 1 emails and it has cost you 743 cents
+You've sent 2 emails and it has cost you 756 cents
+You've sent 3 emails and it has cost you 764 cents
+====================================

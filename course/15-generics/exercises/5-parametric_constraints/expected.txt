@@ -1,0 +1,15 @@
+Using 'basic user biller' to create a bill for 'joe@example.com'
+Bill created for 50 dollars
+ --- 
+Using 'basic user biller' to create a bill for 'samuel.boggs@example.com'
+Bill created for 50 dollars
+ --- 
+Using 'pro user biller' to create a bill for 'jade.row@example.com'
+Bill created for 100 dollars
+ --- 
+Using 'basic org biller' to create a bill for 'challis.rane@example.com'
+Bill created for 2000 dollars
+ --- 
+Using 'pro org biller' to create a bill for 'challis.rane@example.com'
+Bill created for 3000 dollars
+ --- 

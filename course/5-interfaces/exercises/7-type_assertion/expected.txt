@@ -1,0 +1,12 @@
+Report: The email going to john@does.com will cost: 0.11
+====================================
+Report: The email going to jane@doe.com will cost: 1.85
+====================================
+Report: The email going to elon@doe.com will cost: 1.85
+====================================
+Report: The sms going to +155555509832 will cost: 3.70
+====================================
+Report: The sms going to +155555504444 will cost: 3.70
+====================================
+Report: Invalid expense
+====================================

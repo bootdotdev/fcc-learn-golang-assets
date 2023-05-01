@@ -1,0 +1,9 @@
+{
+  "question": "How many threads can Lock a mutex at once?",
+  "answers": [
+    "1",
+    "4",
+    "0",
+    "infinite"
+  ]
+}

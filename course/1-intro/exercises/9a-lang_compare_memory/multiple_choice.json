@@ -1,0 +1,9 @@
+{
+  "question": "What's one of the purposes of the Go runtime?",
+  "answers": [
+    "To cleanup unused memory",
+    "To compile Go code",
+    "To style Go code and make it easier to read",
+    "To cook fried chicken"
+  ]
+}

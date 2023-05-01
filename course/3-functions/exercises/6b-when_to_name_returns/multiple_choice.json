@@ -1,0 +1,8 @@
+{
+  "question": "When should naked returns be used?",
+  "answers": [
+    "For small functions",
+    "For large functions",
+    "For complex functions"
+  ]
+}

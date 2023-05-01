@@ -1,0 +1,9 @@
+{
+  "question": "What is the value of x after the code on the left executes?",
+  "answers": [
+    "100",
+    "a memory address pointing to x",
+    "50",
+    "nil"
+  ]
+}

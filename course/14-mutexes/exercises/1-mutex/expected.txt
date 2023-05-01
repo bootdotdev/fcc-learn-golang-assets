@@ -1,0 +1,6 @@
+Email: jill@example.com has 98 emails
+Email: john@example.com has 52 emails
+=====================================
+Email: george@example.com has 579 emails
+Email: kaden@example.com has 54 emails
+=====================================

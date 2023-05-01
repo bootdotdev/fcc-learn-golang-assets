@@ -1,0 +1,8 @@
+{
+  "question": "Which can 'go run' accept as arguments?",
+  "answers": [
+    "Both",
+    "File names",
+    "Package names"
+  ]
+}

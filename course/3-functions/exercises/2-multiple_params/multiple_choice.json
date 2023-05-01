@@ -1,0 +1,7 @@
+{
+  "question": "Which of the following is the most succinct way to write a function signature?",
+  "answers": [
+    "func createUser(firstName, lastName string, age int)",
+    "func createUser(firstName string, lastName string, age int)"
+  ]
+}

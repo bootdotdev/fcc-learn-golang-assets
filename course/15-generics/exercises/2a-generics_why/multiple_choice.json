@@ -1,0 +1,8 @@
+{
+  "question": "Go's approach to language design is...",
+  "answers": [
+    "Resist adding new features unless they're extremely important",
+    "To support as many useful features as possible",
+    "To never add new features, the language doesn't change"
+  ]
+}

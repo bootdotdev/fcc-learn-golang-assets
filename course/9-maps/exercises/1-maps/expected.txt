@@ -1,0 +1,28 @@
+Creating map...
+key: John, value:
+ - name: John
+ - number: 14355550987
+key: Bob, value:
+ - name: Bob
+ - number: 98765550987
+key: Jill, value:
+ - name: Jill
+ - number: 18265554567
+====================================
+Creating map...
+invalid sizes
+====================================
+Creating map...
+key: George, value:
+ - name: George
+ - number: 20955559812
+key: Sally, value:
+ - name: Sally
+ - number: 38385550982
+key: Rich, value:
+ - name: Rich
+ - number: 48265554567
+key: Sue, value:
+ - name: Sue
+ - number: 16045559873
+====================================

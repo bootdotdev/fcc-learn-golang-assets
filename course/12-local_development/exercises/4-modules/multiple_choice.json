@@ -1,0 +1,9 @@
+{
+  "question": "What is a Go module?",
+  "answers": [
+    "A collection of packages that are released together",
+    "A library package",
+    "An executable main package",
+    "A file of Go code"
+  ]
+}

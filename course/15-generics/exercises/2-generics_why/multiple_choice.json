@@ -1,0 +1,8 @@
+{
+  "question": "Which code would generics be most likely to help with?",
+  "answers": [
+    "A binary tree",
+    "Calculating the area of a circle",
+    "Detecting whether or not a string contains a given substring"
+  ]
+}

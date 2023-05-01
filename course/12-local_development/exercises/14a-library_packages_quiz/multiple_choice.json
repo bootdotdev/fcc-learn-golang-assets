@@ -1,0 +1,7 @@
+{
+  "question": "When should you NOT export a function, variable, or type?",
+  "answers": [
+    "When the end-user doesn't need to know about it",
+    "Never, its better to share code!"
+  ]
+}

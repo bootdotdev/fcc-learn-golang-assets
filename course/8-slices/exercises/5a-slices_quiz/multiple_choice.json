@@ -1,0 +1,7 @@
+{
+  "question": "What does the len() function return?",
+  "answers": [
+    "The current length of the slice",
+    "The maximum length of the slice before reallocation of the array is necessary"
+  ]
+}

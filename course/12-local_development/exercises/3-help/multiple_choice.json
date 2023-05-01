@@ -1,0 +1,8 @@
+{
+  "question": "What does the 'go version' command print?",
+  "answers": [
+    "go version {version} {os}/{architecture}",
+    "go version {os}/{architecture} {version}",
+    "{version} {os}/{architecture}"
+  ]
+}

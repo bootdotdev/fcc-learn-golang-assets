@@ -1,0 +1,39 @@
+Starting game...
+ping 0 sent
+ping 0 got pong 0 sent
+pong 0 got
+ping 1 sent
+ping 1 got pong 1 sent
+pong 1 got
+ping 2 sent
+ping 2 got pong 2 sent
+pong 2 got
+ping 3 sent
+ping 3 got pong 3 sent
+pong 3 got
+pings done
+pongs done
+===== Game over =====
+Starting game...
+ping 0 sent
+ping 0 got pong 0 sent
+pong 0 got
+ping 1 sent
+ping 1 got pong 1 sent
+pong 1 got
+ping 2 sent
+ping 2 got pong 2 sent
+pong 2 got
+pings done
+pongs done
+===== Game over =====
+Starting game...
+ping 0 sent
+ping 0 got pong 0 sent
+pong 0 got
+ping 1 sent
+ping 1 got pong 1 sent
+pong 1 got
+pings done
+pongs done
+===== Game over =====

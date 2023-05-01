@@ -1,0 +1,8 @@
+{
+  "question": "What is the underlying type of an error?",
+  "answers": [
+    "Interface",
+    "Struct",
+    "String"
+  ]
+}

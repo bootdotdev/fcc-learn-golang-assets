@@ -1,0 +1,8 @@
+SMS that costs $1.40 to be sent to '+1 (435) 555 0923' can not be sent
+====================================
+SMS that costs $2.10 to be sent to '+2 (702) 555 3452' can not be sent
+====================================
+SMS that costs $32.10 to be sent to '+1 (801) 555 7456' can not be sent
+====================================
+SMS that costs $14.40 to be sent to '+1 (234) 555 6545' can not be sent
+====================================

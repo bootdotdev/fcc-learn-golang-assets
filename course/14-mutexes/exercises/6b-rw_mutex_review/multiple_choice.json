@@ -1,0 +1,7 @@
+{
+  "question": "Can readers and writers use RWMutexes at the same time?",
+  "answers": [
+    "No",
+    "Yes"
+  ]
+}

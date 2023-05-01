@@ -1,0 +1,19 @@
+Initial users:
+ - breanna
+ - elon
+ - john
+ - kade
+====================================
+Attempting to delete john...
+Log: admin deleted
+====================================
+Attempting to delete santa...
+Log: user not found
+====================================
+Attempting to delete kade...
+Log: user deleted
+====================================
+Final users:
+ - breanna
+ - elon
+====================================

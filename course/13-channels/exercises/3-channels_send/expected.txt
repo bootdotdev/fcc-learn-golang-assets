@@ -1,0 +1,21 @@
+Waiting for 3 databases...
+Database 1 is online
+Database 2 is online
+Database 3 is online
+All databases are online!
+=====================================
+Waiting for 4 databases...
+Database 1 is online
+Database 2 is online
+Database 3 is online
+Database 4 is online
+All databases are online!
+=====================================
+Waiting for 5 databases...
+Database 1 is online
+Database 2 is online
+Database 3 is online
+Database 4 is online
+Database 5 is online
+All databases are online!
+=====================================

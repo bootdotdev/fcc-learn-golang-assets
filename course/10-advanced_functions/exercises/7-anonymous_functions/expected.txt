@@ -1,0 +1,10 @@
+Message: "Here's Johnny!" Cost: 28 cents
+Message: "Go ahead, make my day" Cost: 42 cents
+Message: "You had me at hello" Cost: 38 cents
+Message: "There's no place like home" Cost: 52 cents
+====================================
+Message: "Hello, my name is Inigo Montoya. You killed my father. Prepare to die." Cost: 140 cents
+Message: "May the Force be with you." Cost: 52 cents
+Message: "Show me the money!" Cost: 36 cents
+Message: "Go ahead, make my day." Cost: 44 cents
+====================================

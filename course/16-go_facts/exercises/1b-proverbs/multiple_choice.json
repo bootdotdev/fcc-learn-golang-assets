@@ -1,0 +1,8 @@
+{
+  "question": "Documentation should primarily be written for...",
+  "answers": [
+    "Users of your code",
+    "Maintainers of your code",
+    "Yourself"
+  ]
+}

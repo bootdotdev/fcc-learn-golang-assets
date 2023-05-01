@@ -1,0 +1,8 @@
+{
+  "question": "Should you often change a package's exported API?",
+  "answers": [
+    "No, try to keep changes to internal functionality",
+    "Yes, move fast and break things",
+    "If the package is 'main' then yes"
+  ]
+}

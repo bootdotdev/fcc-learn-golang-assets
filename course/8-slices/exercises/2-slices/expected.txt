@@ -1,0 +1,20 @@
+sending to Ozgur...
+sending: "click here to sign up"
+sending: "pretty please click here"
+no response
+=====================================
+sending to Jeff...
+sending: "click here to sign up"
+sending: "pretty please click here"
+sending: "we beg you to sign up"
+no response
+=====================================
+sending to Sally...
+sending: "click here to sign up"
+sending: "pretty please click here"
+sending: "we beg you to sign up"
+they responded!
+=====================================
+sending to Sally...
+Error: unsupported plan
+=====================================

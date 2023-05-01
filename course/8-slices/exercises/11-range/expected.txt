@@ -1,0 +1,21 @@
+Scanning message: [hey there john] for bad words:
+ - crap
+ - shoot
+ - dang
+ - frick
+Index: -1
+====================================
+Scanning message: [ugh oh my frick] for bad words:
+ - crap
+ - shoot
+ - dang
+ - frick
+Index: 3
+====================================
+Scanning message: [what the shoot I hate that crap] for bad words:
+ - crap
+ - shoot
+ - dang
+ - frick
+Index: 2
+====================================

@@ -1,0 +1,30 @@
+Start counting...
+Sent batch of 15 reports
+Sent batch of 38 reports
+Sent batch of 61 reports
+114 reports sent!
+========================
+Start counting...
+Sent batch of 15 reports
+Sent batch of 38 reports
+Sent batch of 61 reports
+Sent batch of 84 reports
+198 reports sent!
+========================
+Start counting...
+Sent batch of 15 reports
+Sent batch of 38 reports
+Sent batch of 61 reports
+Sent batch of 84 reports
+Sent batch of 107 reports
+305 reports sent!
+========================
+Start counting...
+Sent batch of 15 reports
+Sent batch of 38 reports
+Sent batch of 61 reports
+Sent batch of 84 reports
+Sent batch of 107 reports
+Sent batch of 130 reports
+435 reports sent!
+========================

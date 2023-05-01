@@ -1,0 +1,8 @@
+{
+  "question": "How can you best avoid these kinds of bugs?",
+  "answers": [
+    "Always assign the result of the append() function back to the same slice",
+    "Always assign the result of the append() function to a new slice",
+    "Don't use the append() function"
+  ]
+}

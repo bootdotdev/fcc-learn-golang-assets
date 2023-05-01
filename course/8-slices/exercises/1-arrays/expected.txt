@@ -1,0 +1,17 @@
+sending to Bob...
+sending: "click here to sign up"
+they responded!
+sending to Alice...
+sending: "click here to sign up"
+sending: "pretty please click here"
+they responded!
+sending to Mangalam...
+sending: "click here to sign up"
+sending: "pretty please click here"
+sending: "we beg you to sign up"
+they responded!
+sending to Ozgur...
+sending: "click here to sign up"
+sending: "pretty please click here"
+sending: "we beg you to sign up"
+complete failure

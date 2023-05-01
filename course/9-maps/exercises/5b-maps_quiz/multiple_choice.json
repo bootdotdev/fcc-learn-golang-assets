@@ -1,0 +1,8 @@
+{
+  "question": "Attempting to get a value from a map where the key doesn't exist...",
+  "answers": [
+    "Returns the zero value",
+    "Panics",
+    "Returns the closest value"
+  ]
+}

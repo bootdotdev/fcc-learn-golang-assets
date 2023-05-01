@@ -1,0 +1,8 @@
+{
+  "question": "When should named returns be used?",
+  "answers": [
+    "When there are many values being returned",
+    "When there are few parameters being returned",
+    "When the function is simple"
+  ]
+}

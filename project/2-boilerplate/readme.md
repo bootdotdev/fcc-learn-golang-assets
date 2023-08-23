@@ -18,7 +18,7 @@ You should know how to do this by now! My process is:
 Install the following packages using `go get`:
 
 * [chi](https://github.com/go-chi/chi)
-* [cors]https://github.com/go-chi/cors
+* [cors](https://github.com/go-chi/cors)
 * [godotenv](github.com/joho/godotenv)
 
 ## 3. Env

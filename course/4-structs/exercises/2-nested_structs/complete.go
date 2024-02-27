@@ -52,7 +52,7 @@ func test(mToSend messageToSend) {
 
 func main() {
 	test(messageToSend{
-		message: "you have an appointment tommorow",
+		message: "you have an appointment tomorrow",
 		sender: user{
 			name:   "Brenda Halafax",
 			number: 16545550987,
@@ -63,7 +63,7 @@ func main() {
 		},
 	})
 	test(messageToSend{
-		message: "you have an event tommorow",
+		message: "you have an event tomorrow",
 		sender: user{
 			number: 16545550987,
 		},
@@ -73,7 +73,7 @@ func main() {
 		},
 	})
 	test(messageToSend{
-		message: "you have an party tommorow",
+		message: "you have an party tomorrow",
 		sender: user{
 			name:   "Njorn Halafax",
 			number: 16545550987,
@@ -84,7 +84,7 @@ func main() {
 		},
 	})
 	test(messageToSend{
-		message: "you have a birthday tommorow",
+		message: "you have a birthday tomorrow",
 		sender: user{
 			name:   "Eli Halafax",
 			number: 0,
